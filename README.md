@@ -1,6 +1,6 @@
 # flutter_notes_app
 
-A simple notepad appication with flutter and sqflite.
+A simple notepad application with flutter and sqflite.
 
 ## Application gifs
 <img src="images/edit.gif" width="250">   <img src="images/delete.gif" width="250">
