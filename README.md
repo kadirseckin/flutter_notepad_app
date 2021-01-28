@@ -1,2 +1,2 @@
 # flutter_notepad_app
-A simple notepad appication with flutter
+A simple notepad application with flutter
